@@ -94,4 +94,4 @@ Todos os dados deste repositório (nomes, CPFs, telefones, endereços) são **fi
 
 ## Autor
 
-Seu Nome | [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+Seu Nome | [[LinkedIn](https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/arthurrickss/)
