@@ -1,4 +1,4 @@
-# Gerenciamento de Vendas | Do Excel para o MySQL
+# Gerenciamento de Vendas
 
 Projeto de modelagem e migração de dados: informações que estavam em planilhas Excel foram estruturadas em um banco de dados relacional **MySQL**, com scripts SQL de criação de tabelas, carga de dados e consultas.
 
